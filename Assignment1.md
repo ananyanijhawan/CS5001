@@ -10,7 +10,7 @@ Email Address: nijhawaa@mail.uc.edu
 * Deployed tag recommendation system and integrated with Global Investment Research curation tools
 
 **Software Developer Intern | Software Major, London | Summer 2017**
-* Developed a multi-platform mobile application using React Native with PHP Symfony back-end
+* Developed Matchstixx, a multi-platform mobile application using React Native with PHP Symfony back-end
 * Built Cask Angel, a web application for the wine industry, using PHP Symfony, Twig and Doctrine ORM
 * Represented the company in client meetings and developed app prototypes in conjunction with clients
 
